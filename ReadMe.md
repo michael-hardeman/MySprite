@@ -13,7 +13,8 @@ Planned features
 
 Dependencies
 ------------
-Insubstantial UI Library.
+Insubstantial UI Library
+* https://github.com/Insubstantial/insubstantial
 
 Compiling
 ---------
