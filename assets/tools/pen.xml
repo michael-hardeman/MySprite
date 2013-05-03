@@ -1,0 +1,32 @@
+<tool>
+  
+	<name>Pen</name>
+    <description>1px pen used to change the color of a pixel.</description>
+    <icon>tool-pencil.png</icon>
+    
+    <mousedown>
+      <action>
+        <command>paint</command>
+        <x>currentx</x>
+        <y>currenty</y>
+        <size>currentsize</size>
+        <opacity>currentopacity</opacity>
+        <color>currentcolor</color>
+      </action>
+    </mousedown>
+    
+    <mousedrag>
+      <action>
+        <command>paint</command>
+        <x>currentx</x>
+        <y>currenty</y>
+        <size>currentsize</size>
+        <opacity>currentopacity</opacity>
+        <color>currentcolor</color>
+      </action>
+    </mousedrag>
+    
+    <mouseup>
+    </mouseup>
+    
+</tool>

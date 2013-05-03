@@ -1,0 +1,24 @@
+<tool>
+  
+	<name>Line</name>
+    <description>create a line between points.</description>
+    <icon>tool-line.png</icon>
+    
+    <mousedown>      
+    </mousedown>
+    
+    <mousedrag>
+    </mousedrag>
+    
+    <mouseup>
+      <action>
+        <command>line</command>
+        <x>currentx</x>
+        <y>currenty</y>
+        <size>currentsize</size>
+        <opacity>currentopacity</opacity>
+        <color>currentcolor</color>
+      </action>
+    </mouseup>
+    
+</tool>
