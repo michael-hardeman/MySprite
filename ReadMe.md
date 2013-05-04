@@ -1,7 +1,7 @@
 MySprite
 ========
 
-The aim of MySprite is to provide a rich enviroment for artistic sprite creationg and editing.
+The aim of MySprite is to provide a rich enviroment for artistic sprite creation and editing.
 
 Planned features
 ----------------
@@ -13,12 +13,10 @@ Planned features
 
 Dependencies
 ------------
-Insubstantial UI Library
-* https://github.com/Insubstantial/insubstantial
+Insubstantial UI Library : https://github.com/Insubstantial/insubstantial
 
 Compiling
 ---------
-
   
 Build Status
 ------------
