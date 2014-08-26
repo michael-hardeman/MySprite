@@ -25,14 +25,8 @@ import  org.xml.sax.SAXException;
 
 //////////////////
 // XmlInterface //
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// I am not a fan of java's document Builder.
-// I'm baffled by it's obtuse design, and wonder why it parses out such useless information as
-// blank spaces and new lines, and why it's structure is so nested and nodes don't have relevant data in them,
-// the data is stored in children nodes along with other tags and blank spaces and junk.
-//
-// This tries to remedy that by making getting tags, and info out of tags easier.
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////
+
   public class XmlInterface {
 
     ////////////////////////
@@ -46,11 +40,7 @@ import  org.xml.sax.SAXException;
 
     /////////////////
     // Constructor //
-    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // God damn it, who thought that it was a good idea to have a documentBuilder factory, that you use to build
-    // documentBuilders, that you then use to buildDocuments... That's some of the most nonsensical design i've
-    // ever seen.
-    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    /////////////////
       public XmlInterface() throws ParserConfigurationException{
         try {
           logger.setLevel(Level.ALL);
@@ -66,13 +56,7 @@ import  org.xml.sax.SAXException;
 
     ///////////
     // parse //
-    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // Asswiper myAssWiper = new Asswiper();
-    // myAssWiper.wipeAss(this);
-    //
-    // that's basically the jist of this function. God damn it java, you make things too easy. Nobody will ever learn
-    // anything using you because you do everything for them.
-    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    ///////////
       public void parse(File file) throws Exception {
         try {
           if(file.exists() && file.canRead() && file.isFile() && file.getName().endsWith(".xml")) {
@@ -95,12 +79,6 @@ import  org.xml.sax.SAXException;
         }
       }
 
-    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // These are getters that try and extract data from the retarded tree structure that the dom parser makes
-    // They attempt to discards dummy data, which for some reason, is included in the tree; and
-    // they extract the info contained in the tags from the obtuse design.
-    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-      
     ////////////////
     // getRootTag //
     ////////////////
