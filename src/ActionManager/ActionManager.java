@@ -2,7 +2,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                    //
 // ActionManager.java                                                                                                 //
-// Michael Hardeman : mhardeman2@student.gsu.edu                                                                      //
+// Michael Hardeman                                                                                                   //
 //                                                                                                                    //
 // Interperates actions read from xml files into operations on the Sprite DataStructure                               //
 //                                                                                                                    //
