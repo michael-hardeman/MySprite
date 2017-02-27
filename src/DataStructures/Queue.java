@@ -2,7 +2,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                   //
 //  Queue.java                                                                                                       //
-//  Michael Hardeman : Mhardeman2@student.gsu.edu                                                                    //
+//  Michael Hardeman                                                                                                 //
 //                                                                                                                   //
 //  It's a Queue. Generic.                                                                                           //
 //                                                                                                                   //
