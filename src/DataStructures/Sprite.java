@@ -3,7 +3,6 @@
 //                                                                                                                    //
 //  Sprite.java                                                                                                       //
 //  Michael Hardeman                                                                                                  //
-//  Mhardeman2@student.gsu.edu                                                                                        //
 //                                                                                                                    //
 //  The whole shebang, represents an ArrayList<LayeredImages>                                                         //
 //                                                                                                                    //
