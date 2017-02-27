@@ -3,7 +3,6 @@
 //                                                                                                                    //
 //  Layer.java                                                                                                        //
 //  Michael Hardeman                                                                                                  //
-//  Mhardeman2@student.gsu.edu                                                                                        //
 //                                                                                                                    //
 //  Represents a matrix of pixels in our Sprite.LayerdImage data structure using a BufferedImage                      //
 //                                                                                                                    //
