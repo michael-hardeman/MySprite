@@ -2,7 +2,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                    //
 //  FileManager.java                                                                                                  //
-//  Michael Hardeman : Mhardeman2@student.gsu.edu                                                                     //
+//  Michael Hardeman                                                                                                  //
 //                                                                                                                    //
 //  Reads all ini, xml, png, and spr files in .\assets into default data structures                                   //
 //                                                                                                                    //
