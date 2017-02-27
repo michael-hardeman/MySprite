@@ -2,7 +2,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                    //
 //  IniInterface.java                                                                                                 //
-//  Michael Hardeman : Mhardeman2@student.gsu.edu                                                                     //
+//  Michael Hardeman                                                                                                  //
 //                                                                                                                    //
 //  Just a front end for properties. I didn't actually have to do much. Thought it would be harder.                   //
 //                                                                                                                    //
