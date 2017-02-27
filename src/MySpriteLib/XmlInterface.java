@@ -2,7 +2,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                    //
 //  XmlInterface.java                                                                                                 //
-//  Michael Hardeman : Mhardeman2@student.gsu.edu                                                                     //
+//  Michael Hardeman                                                                                                  //
 //                                                                                                                    //
 //  Abstracts XmlParsing Library with standard function calls                                                         //
 //                                                                                                                    //
