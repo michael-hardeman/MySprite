@@ -2,7 +2,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                    //
 //  Action.java                                                                                                       //
-//  Michael Hardeman : Mhardeman2@student.gsu.edu                                                                     //
+//  Michael Hardeman                                                                                                  //
 //                                                                                                                    //
 //  checks syntax and parses out literals from <action> tag in xml tool definitions                                   //
 //                                                                                                                    //
