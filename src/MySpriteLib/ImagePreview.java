@@ -2,8 +2,8 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                    //
 //  ImagePreview.java                                                                                                 //
-//  Michael Hardeman : Mhardeman2@student.gsu.edu                                                                     //
-//  Matt Gold        : mattbgold@gmail.com                                                                            //
+//  Michael Hardeman                                                                                                  //
+//  Matt Gold                                                                                                         //
 //                                                                                                                    //
 //  MySprite Specific Gui Components and data structures                                                              //
 //                                                                                                                    //
@@ -43,16 +43,15 @@ import  javax.swing.JPanel;
     // Constructor //
     /////////////////
       public ImagePreview(double width, BufferedImage image) {
-        this.width    = width;
-        this.icon     = new JPanel();
-        this.icon     . setLayout(new GridLayout(0,1));
-        double iscale = ((double)width/(double)image.getWidth());
-        this          . icon.add(new JLabel(scale(image,iscale)));
-        this.wrapper  = new JButton();
-        this.wrapper.add                  (icon);
-        this.wrapper.setOpaque            (false);
-        this.wrapper.setBorderPainted     (false);
-        this.wrapper.setContentAreaFilled (false);
+        this.width   = width;
+        this.icon    = new JPanel();
+        this.wrapper = new JButton();
+        this.icon.setLayout(new GridLayout(0,1));
+        this.icon.add(new JLabel(scale(image,((double)width/(double)image.getWidth()))));
+        this.wrapper.add(icon);
+        this.wrapper.setOpaque(false);
+        this.wrapper.setBorderPainted(false);
+        this.wrapper.setContentAreaFilled(false);
         this.add(wrapper);
       }
     
@@ -70,13 +69,12 @@ import  javax.swing.JPanel;
         this.removeAll();
         this.width    = width;
         this.icon     = new JPanel();
-        this.icon     . setLayout(new GridLayout(0,1));
-        double iscale = ((double)width/(double)image.getWidth());
-        this.icon     . add(new JLabel(scale(image,iscale)));
         this.wrapper  = new JButton();
-        this.wrapper.add                  (icon);
-        this.wrapper.setOpaque            (false);
-        this.wrapper.setBorderPainted     (false);
+        this.icon.setLayout(new GridLayout(0,1));
+        this.icon.add(new JLabel(scale(image,((double)width/(double)image.getWidth()))));
+        this.wrapper.add(icon);
+        this.wrapper.setOpaque(false);
+        this.wrapper.setBorderPainted(false);
         this.wrapper.setContentAreaFilled (false);
         this.add(wrapper);
       }
