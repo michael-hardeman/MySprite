@@ -2,7 +2,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                    //
 //  SkinHelper.java                                                                                                   //
-//  Michael Hardeman : Mhardeman2@student.gsu.edu                                                                     //
+//  Michael Hardeman                                                                                                  //
 //                                                                                                                    //
 //  This is really nasty code. Please ignore it. I put it here so I could forget about it and never see it again.     //
 //                                                                                                                    //
