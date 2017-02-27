@@ -3,7 +3,6 @@
 //                                                                                                                    //
 //  LayeredImage.java                                                                                                 //
 //  Michael Hardeman                                                                                                  //
-//  Mhardeman2@student.gsu.edu                                                                                        //
 //                                                                                                                    //
 //  Represents an ArrayList() of Sprite.Layers in our Sprite data structure                                           //
 //                                                                                                                    //
