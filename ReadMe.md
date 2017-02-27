@@ -15,17 +15,6 @@ Dependencies
 ------------
 Insubstantial UI Library : https://github.com/Insubstantial/insubstantial
 
-Compiling
----------
-  
-Build Status
-------------
-Stable
-
-Author
-------
-mhardeman25[at]gmail.com
-
 License
 -------
 Unless otherwise noted here, all files and subprograms are GPLv3.
