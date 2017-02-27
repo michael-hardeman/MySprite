@@ -2,8 +2,8 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                    //
 //  AnimationCanvas.java                                                                                              //
-//  Michael Hardeman : Mhardeman2@student.gsu.edu                                                                     //
-//  Matt Gold        : mattbgold@gmail.com                                                                            //
+//  Michael Hardeman                                                                                                  //
+//  Matt Gold                                                                                                         //
 //                                                                                                                    //
 //  MySprite Specific Gui Components and data structures                                                              //
 //                                                                                                                    //
