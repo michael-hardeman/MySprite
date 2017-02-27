@@ -2,10 +2,10 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                    //
 //  MySprite.java                                                                                                     //
-//  Michael Hardeman : Mhardeman2@student.gsu.edu                                                                     //
-//  Matt Gold        : mattbgold@gmail.com                                                                            //
-//  Robert Jenkins   : rjenkins12@student.gsu.edu                                                                     //
-//  Michael Burlison : mburlison@gmail.com                                                                            //
+//  Michael Hardeman                                                                                                  //
+//  Matt Gold                                                                                                         //
+//  Robert Jenkins                                                                                                    //
+//  Michael Burlison                                                                                                  //
 //                                                                                                                    //
 //  Main GUI, Thread Creation, file managing,  event handling methods found here.                                     //
 //                                                                                                                    //
