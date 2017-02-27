@@ -2,7 +2,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                                                    //
 //  Node.java                                                                                                         //
-//  Michael Hardeman : Mhardeman2@student.gsu.edu                                                                     //
+//  Michael Hardeman                                                                                                  //
 //                                                                                                                    //
 //  Basic Linked List data component. Generic.                                                                        //
 //                                                                                                                    //
