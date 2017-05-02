@@ -1,7 +1,7 @@
 MySprite
 ========
 
-The aim of MySprite is to provide a rich enviroment for artistic sprite creation and editing.
+This was one of the projects I worked on in college for software engineering. It was a group project, you can find their names at the top of the MySprite.java file.
 
 Planned features
 ----------------
